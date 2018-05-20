@@ -1,4 +1,7 @@
-# By Timothy Fong
+# Contributors:
+# Timothy Fong
+# Haely Shah
+# Oliver Zhu
 # CMPE 209 Poker Project
 import socket
 from Crypto.PublicKey import RSA
@@ -306,5 +309,8 @@ print "done"
 #print(server.recv(1024)) 
 #Quit server response
 server.close()
-# By Timothy Fong
+# Contributors:
+# Timothy Fong
+# Haely Shah
+# Oliver Zhu
 # CMPE 209 Poker Project

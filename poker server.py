@@ -1,4 +1,7 @@
-# By Timothy Fong
+# Contributors:
+# Timothy Fong
+# Haely Shah
+# Oliver Zhu
 # CMPE 209 Poker Project
 #!/usr/bin/python
 import socket
@@ -1117,5 +1120,8 @@ class Poker(object):
 
 if __name__ == '__main__':
 	Main()
-# By Timothy Fong
+# Contributors:
+# Timothy Fong
+# Haely Shah
+# Oliver Zhu
 # CMPE 209 Poker Project

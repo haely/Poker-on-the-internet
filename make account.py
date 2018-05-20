@@ -1,4 +1,7 @@
-# By Timothy Fong
+# Contributors:
+# Timothy Fong
+# Haely Shah
+# Oliver Zhu
 # CMPE 209 Poker Project
 import socket
 from Crypto.PublicKey import RSA
@@ -65,5 +68,8 @@ elif server_response == "Ready":
 	else:
 		print "There was an error"
 		server.close()
-# By Timothy Fong
+# Contributors:
+# Timothy Fong
+# Haely Shah
+# Oliver Zhu
 # CMPE 209 Poker Project
